@@ -1,20 +1,14 @@
 /*  your css code here. If applicable */
 #eg1{
 	background-color:yellow;
-	border-width:1px;
-	border-color:green;
-	border-style:solid;
+	border: 1px solid green;
 }
 #eg2{
 	background-color:red;
-	border-width:1px;
-	border-color:black;
-	border-style:solid;
+	border: 1px solid black;
 }
 #eg3{
 	background-color:green;
-	border-width:1px;
-	border-color:yellow;
-	border-style:solid;
+	border: 1px solid yellow;
 
 }
